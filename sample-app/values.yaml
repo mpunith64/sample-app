@@ -1,5 +1,6 @@
 replicaCount: 1
-
+tenant:
+  name: dev-eip
 image:
   pullPolicy: IfNotPresent
   hello:
