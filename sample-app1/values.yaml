@@ -1,6 +1,6 @@
 replicaCount: 1
 tenant:
-  name: prod-eip
+  name: abc-iu
 image:
   pullPolicy: IfNotPresent
   hello:
