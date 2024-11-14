@@ -1,6 +1,6 @@
 replicaCount: 1
 tenant:
-  name: dev-eip
+  name: abc-cd
 image:
   pullPolicy: IfNotPresent
   hello:
